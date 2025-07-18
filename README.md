@@ -5,7 +5,7 @@
 GitHub Pages によって公開されており、ローカル環境に依存せず、ブラウザ上で手軽に利用できます。
 
 🔗 **公開ページ**  
-👉 [https://gekilyn.github.io/analyzeColorMap/](https://gekilyn.github.io/analyzeColorMap/)
+👉 https://yusukekahwagi.github.io/AnalyzeColorMap/
 
 ---
 
